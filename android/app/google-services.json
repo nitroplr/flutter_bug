@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085874223311",
+    "project_id": "flutter-bugs-nitroplr",
+    "storage_bucket": "flutter-bugs-nitroplr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085874223311:android:6ce99ca9f066630790dfba",
+        "android_client_info": {
+          "package_name": "com.example.flutter_bug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085874223311-dk21snjl7dt7aejaiu141mej23h3h2uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJJ-CJZPqIKn5DRtKH3XiXdsN_KVLGhCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085874223311-dk21snjl7dt7aejaiu141mej23h3h2uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
